@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>demo06</artifactId>
+    <artifactId>ssoclient</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo06</name>
+    <name>ssoclient</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
